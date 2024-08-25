@@ -1,2 +1,3 @@
 - *cargo*: dependency manager and build tool; used to compile and manage dependencies.
 - *rustfmt*: format tool; used to enforce styling.
+- *crate*: a collection of Rust source code files.
