@@ -1,0 +1,8 @@
+[package]
+name = "celsius_to_fahrenheit"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+dialoguer = "0.10.0"
+colored = "2.0.0"
